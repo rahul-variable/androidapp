@@ -15,30 +15,11 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="33dp"
-        android:text="Welcome to My App"
+        android:text="Swipe"
         android:textColor="?attr/colorBackgroundFloating"
         android:textColorLink="?attr/colorBackgroundFloating"
-        android:textSize="30sp" />
+        android:textSize="30dp" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="236dp"
-        android:layout_height="78dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="134dp"
-        android:text="Login"
-        android:textSize="24sp" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="239dp"
-        android:layout_height="78dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="162dp"
-        android:text="Register"
-        android:textIsSelectable="true"
-        android:textSize="24sp" />
 
 </RelativeLayout>
